@@ -1,2 +1,2 @@
 # hello-github
-연습용 저장소
+git 및 github 공부용
